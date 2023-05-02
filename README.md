@@ -5,6 +5,11 @@
 This is a portfolio app using react with responsive designs with mobile-first approach.
 
 ## Usage
+- Demo
+<video src="https://user-images.githubusercontent.com/116880367/235578545-a4ba5d4d-15fb-49c3-91c2-a731e429e54d.mov"></video>
+
+
+
 - Home Page
 ![Screenshot 2023-04-21 at 10 55 44 PM](https://user-images.githubusercontent.com/116880367/233765668-43a731c9-4949-49e7-9f93-c82aac974cc5.png)
 
